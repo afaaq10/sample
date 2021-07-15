@@ -1,0 +1,16 @@
+header{
+    background-color:#808080;
+  }
+  h1{
+    color: #FFC0CB;
+    text-align:center;
+  }
+  h2{
+    color:#800080;
+  }
+  section{
+    background-color:#FFC0CB;
+  }
+  img{
+    display:none;
+  }

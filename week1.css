@@ -1,0 +1,104 @@
+body{
+
+    margin:2%;
+    padding:2%;
+  
+    
+  }
+  header{
+    background-color:#808080;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfhxPsO5tTSZd0p_EAECp6TusXkqqO6JlzQ&usqp=CAU");
+    
+    padding:40px;
+   
+    margin:10px;
+  
+    
+    
+    
+  }
+  nav a{
+    border-radius:10px;
+    border: 2px solid black;
+    background-color: moccasin;
+    margin:90px;
+    padding:5px;
+    text-decoration: none;
+    color: navy;
+    opacity:0.4;
+  
+  
+    
+  }
+  .active{
+    background-color:white;
+      opacity:0.8;
+    }
+  h1{
+    color: #FFC0CB;
+    text-align:center;
+    
+  }
+  h2{
+    color:#800080;
+  }
+  
+    .left img{
+       display:block;
+       width:250px;
+      
+       border: 1px solid black;
+       margin:10px;
+       background-color:green;
+     
+      
+  
+  }
+  aside, .right{
+      background-color: green;
+      width:350px;
+      display: inline-block;
+  }
+  .right,p,h2{
+      background-color: white;
+      margin: 10px;
+      position: relative;
+     left: 350px;
+     top:-250px;
+  }
+  div{
+      width:30%;
+     position: relative;
+     top: -500px;
+     left: 700px;
+  }
+table{
+     border-radius: 20px;
+     background-color: rgb(28, 196, 112);
+     font-family: aerial;
+     text-overflow: inherit;
+   
+
+}
+th{
+    border: 2px solid rgb(255, 192, 250);
+    background-color: rgba(0, 128, 0, 0.918);
+    border-radius: 2px;
+
+}
+tr{
+    opacity: 0.7;
+   
+}
+tr:hover{
+    opacity: 1;
+}
+td{
+    color: grey;
+    background-color:whitesmoke;
+    padding: 10px;
+    margin: 2px;
+   
+   
+}
+
